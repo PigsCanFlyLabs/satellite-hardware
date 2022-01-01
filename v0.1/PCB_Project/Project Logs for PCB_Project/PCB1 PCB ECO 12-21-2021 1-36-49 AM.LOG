@@ -1,0 +1,33 @@
+Added Component: Designator=Q4(SOT96P237X111-3N)
+Added Component: Designator=Q5(SOT96P237X111-3N)
+Added Component: Designator=R11(RES0603)
+Added Component: Designator=R12(RES0603)
+Added Component: Designator=R13(RES0603)
+Added Component: Designator=R14(RES0603)
+Added Component: Designator=R15(RES0603)
+Added Pin To Net: NetName=GND Pin=Q4-2
+Added Pin To Net: NetName=VBAT Pin=Q5-2
+Added Pin To Net: NetName=IO32 Pin=R11-2
+Added Pin To Net: NetName=GND Pin=R12-2
+Added Pin To Net: NetName=VBAT Pin=R13-1
+Added Pin To Net: NetName=IO39 Pin=R14-2
+Added Pin To Net: NetName=IO39 Pin=R15-1
+Added Pin To Net: NetName=GND Pin=R15-2
+Added Pin To Net: NetName=NetQ4_1 Pin=Q4-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R11-1
+Added Pin To Net: NetName=NetQ4_1 Pin=R12-1
+Added Net: Name=NetQ4_1
+Added Pin To Net: NetName=NetQ4_3 Pin=Q4-3
+Added Pin To Net: NetName=NetQ4_3 Pin=Q5-1
+Added Pin To Net: NetName=NetQ4_3 Pin=R13-2
+Added Net: Name=NetQ4_3
+Added Pin To Net: NetName=NetQ5_3 Pin=Q5-3
+Added Pin To Net: NetName=NetQ5_3 Pin=R14-1
+Added Net: Name=NetQ5_3
+Added Member To Class: ClassName=Sheet1 Member=Component Q4 2N7002,215
+Added Member To Class: ClassName=Sheet1 Member=Component Q5 BSS48
+Added Member To Class: ClassName=Sheet1 Member=Component R11 4K7
+Added Member To Class: ClassName=Sheet1 Member=Component R12 100K
+Added Member To Class: ClassName=Sheet1 Member=Component R13 100K
+Added Member To Class: ClassName=Sheet1 Member=Component R14 330K
+Added Member To Class: ClassName=Sheet1 Member=Component R15 100K

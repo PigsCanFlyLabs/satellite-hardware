@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=GND Pin=B1-2
+Removed Pin From Net: NetName=+3V3 Pin=C11-1
+Removed Pin From Net: NetName=GND Pin=U5-2
+Removed Pin From Net: NetName=GND Pin=U5-3
+Removed Pin From Net: NetName=IO25 Pin=U5-5
+Removed Pin From Net: NetName=+3V3 Pin=U5-6
+Removed Member From Class: ClassName=Sheet1 Member=U5
+Added Component: Designator=B3(KMR221NGLFS)
+Added Component: Designator=C15(0603 Capacitor)
+Added Component: Designator=R19(RES0603)
+Added Component: Designator=R20(RES0603)
+Added Pin To Net: NetName=+3V3 Pin=B1-1
+Added Pin To Net: NetName=IO25 Pin=B1-4
+Added Pin To Net: NetName=+3V3 Pin=B3-1
+Added Pin To Net: NetName=IO25 Pin=B3-4
+Added Pin To Net: NetName=IO25 Pin=C11-1
+Added Pin To Net: NetName=IO25 Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C15-2
+Added Pin To Net: NetName=IO25 Pin=R19-1
+Added Pin To Net: NetName=GND Pin=R19-2
+Added Pin To Net: NetName=IO25 Pin=R20-1
+Added Pin To Net: NetName=GND Pin=R20-2
+Added Member To Class: ClassName=Sheet1 Member=Component B3 Wakeup Button
+Added Member To Class: ClassName=Sheet1 Member=Component C15 100n
+Added Member To Class: ClassName=Sheet1 Member=Component R19 10k 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R20 10k 0603

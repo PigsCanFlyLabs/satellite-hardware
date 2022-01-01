@@ -1,0 +1,52 @@
+Added Component: Designator=U4(m.2)
+Added Pin To Net: NetName=S_TX Pin=U1-11
+Added Pin To Net: NetName=S_RX Pin=U1-12
+Added Pin To Net: NetName=GND Pin=U4-S1_1
+Added Pin To Net: NetName=GND Pin=U4-S1_2
+Added Pin To Net: NetName=GND Pin=U4-S1_3
+Added Pin To Net: NetName=GND Pin=U4-S2_1
+Added Pin To Net: NetName=GND Pin=U4-S2_2
+Added Pin To Net: NetName=GND Pin=U4-S2_3
+Added Member To Class: ClassName=Sheet1 Member=Component B1 Pairing Button
+Added Member To Class: ClassName=Sheet1 Member=Component B2 Reset Button
+Added Member To Class: ClassName=Sheet1 Member=Component C1 CAPC1608N-0.1UF
+Added Member To Class: ClassName=Sheet1 Member=Component C2 CAPC1608N-0.1UF
+Added Member To Class: ClassName=Sheet1 Member=Component C3 CAPC1608N-0.1UF
+Added Member To Class: ClassName=Sheet1 Member=Component C4 CAPC1608N-0.1UF
+Added Member To Class: ClassName=Sheet1 Member=Component C5 100n
+Added Member To Class: ClassName=Sheet1 Member=Component C6 1µF
+Added Member To Class: ClassName=Sheet1 Member=Component C7 10u
+Added Member To Class: ClassName=Sheet1 Member=Component C8 2n2
+Added Member To Class: ClassName=Sheet1 Member=Component C9 100n
+Added Member To Class: ClassName=Sheet1 Member=Component C10 10u
+Added Member To Class: ClassName=Sheet1 Member=Component C11 100n
+Added Member To Class: ClassName=Sheet1 Member=Component C12 10u
+Added Member To Class: ClassName=Sheet1 Member=Component D1 MBR120
+Added Member To Class: ClassName=Sheet1 Member=Component D2 ORANGE
+Added Member To Class: ClassName=Sheet1 Member=Component D3 0.96" i2c Olded Display
+Added Member To Class: ClassName=Sheet1 Member=Component D4 MBR120
+Added Member To Class: ClassName=Sheet1 Member=Component D5 ORANGE
+Added Member To Class: ClassName=Sheet1 Member=Component IC1 CP2104-F03-GMR
+Added Member To Class: ClassName=Sheet1 Member=Component J1 10118193-0001LF
+Added Member To Class: ClassName=Sheet1 Member=Component Q1 MMBT2222ALT1G
+Added Member To Class: ClassName=Sheet1 Member=Component Q2 MMBT2222ALT1G
+Added Member To Class: ClassName=Sheet1 Member=Component Q3 DMG3415U
+Added Member To Class: ClassName=Sheet1 Member=Component R1 10k 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R2 10k 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R3 10k 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R4 10k 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R5 10K
+Added Member To Class: ClassName=Sheet1 Member=Component R6 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R7 1K
+Added Member To Class: ClassName=Sheet1 Member=Component R8 4k7 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R9 4k7 0603
+Added Member To Class: ClassName=Sheet1 Member=Component R10 100K
+Added Member To Class: ClassName=Sheet1 Member=Component S1 SS-12D11G5R (BAT Slide Switch)
+Added Member To Class: ClassName=Sheet1 Member=Component T1 Battery Connector
+Added Member To Class: ClassName=Sheet1 Member=Component U1 ESP32-WROOM-32__16MB_
+Added Member To Class: ClassName=Sheet1 Member=Component U2 MPU-6050
+Added Member To Class: ClassName=Sheet1 Member=Component U3 MCP73831-2-OT
+Added Member To Class: ClassName=Sheet1 Member=Component U4 Component_2
+Added Member To Class: ClassName=Sheet1 Member=Component U5 MAX16054AZT+T
+Added Member To Class: ClassName=Sheet1 Member=Component U6 NOT GATE
+Added Member To Class: ClassName=Sheet1 Member=Component U7 NCV8187AMT330TAG

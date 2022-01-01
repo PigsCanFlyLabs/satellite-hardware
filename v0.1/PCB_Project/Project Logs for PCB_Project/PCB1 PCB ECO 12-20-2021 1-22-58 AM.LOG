@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=VBAT Pin=U3-3
+Added Pin To Net: NetName=VBAT_IN Pin=U3-3

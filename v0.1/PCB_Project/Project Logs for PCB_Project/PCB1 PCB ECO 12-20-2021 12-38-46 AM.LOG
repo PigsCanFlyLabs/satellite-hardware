@@ -1,0 +1,6 @@
+Added Component: Designator=D3(i2c display)
+Added Pin To Net: NetName=GND Pin=D3-1
+Added Pin To Net: NetName=+3V3 Pin=D3-2
+Added Pin To Net: NetName=IO22 Pin=D3-3
+Added Pin To Net: NetName=IO21 Pin=D3-4
+Added Member To Class: ClassName=Sheet1 Member=Component D3 0.96" i2c Olded Display

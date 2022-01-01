@@ -1,0 +1,31 @@
+Added Component: Designator=U4(m.2)
+Added Component: Designator=U8(RF_VHF_JAE_MM60-52B1-B1-R850_MM60-EZH039-B5-R850_w_2005_mPCIe_card)
+Added Pin To Net: NetName=GND Pin=U4-S1_1
+Added Pin To Net: NetName=GND Pin=U4-S1_2
+Added Pin To Net: NetName=GND Pin=U4-S1_3
+Added Pin To Net: NetName=GND Pin=U4-S2_1
+Added Pin To Net: NetName=GND Pin=U4-S2_2
+Added Pin To Net: NetName=GND Pin=U4-S2_3
+Added Pin To Net: NetName=VBAT Pin=U8-2
+Added Pin To Net: NetName=GND Pin=U8-4
+Added Pin To Net: NetName=GND Pin=U8-9
+Added Pin To Net: NetName=S_RX Pin=U8-11
+Added Pin To Net: NetName=S_TX Pin=U8-13
+Added Pin To Net: NetName=GND Pin=U8-15
+Added Pin To Net: NetName=GND Pin=U8-18
+Added Pin To Net: NetName=GND Pin=U8-21
+Added Pin To Net: NetName=VBAT Pin=U8-24
+Added Pin To Net: NetName=GND Pin=U8-26
+Added Pin To Net: NetName=GND Pin=U8-27
+Added Pin To Net: NetName=GND Pin=U8-29
+Added Pin To Net: NetName=GND Pin=U8-34
+Added Pin To Net: NetName=GND Pin=U8-35
+Added Pin To Net: NetName=GND Pin=U8-37
+Added Pin To Net: NetName=VBAT Pin=U8-39
+Added Pin To Net: NetName=GND Pin=U8-40
+Added Pin To Net: NetName=VBAT Pin=U8-41
+Added Pin To Net: NetName=GND Pin=U8-43
+Added Pin To Net: NetName=GND Pin=U8-50
+Added Pin To Net: NetName=VBAT Pin=U8-52
+Added Member To Class: ClassName=Sheet1 Member=Component U4 Component_2
+Added Member To Class: ClassName=Sheet1 Member=Component U8 SWARM_M138_mPCIe_2.005"_VHF
