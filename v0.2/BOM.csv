@@ -1,0 +1,42 @@
+"Line #","Name","Description","Designator","Quantity","Manufacturer 1","Manufacturer Part Number 1","Manufacturer Lifecycle 1","Supplier 1","Supplier Part Number 1","Supplier Unit Price 1","Supplier Subtotal 1"
+1,"353 ADAFRUIT INDUSTRIES","18650 1S3P PATTERY, JST PH Connector","BAT1",1,"Adafruit Industries","353","Unknown","Digikey","1528-1835-ND",24.5,24.5
+2,"APXA6R3ARA221MH7","CAP ALUM POLY 220UF 20% 6.3V SMD","C1, C18, C19",3,"United Chemi-Con","APXA6R3ARA221MH70G","Volume Production","LCSC","C2161570",0.4692,1.4076
+3,"CAPC1608N-1UF","CAP CER 1UF 25V X7R 0603","C2, C4, C5, C6, C7",5,"Yageo","CC0603KRX7R8BB105","Volume Production","LCSC","C106858",0.0236,0.118
+4,"CAPC1608N-0.1UF","CAP CER 0.1UF 25V X7R 0603","C3, C8, C10, C12, C13, C14, C16, C20, C21, C22, C23",11,"Murata","GRM188R71E104KA01D","Volume Production","LCSC","C77050",0.007,0.077
+5,"CAPC1608N-12PF","CAP CER 12PF NP0 0603","C9, C11",2,"Kyocera AVX","06031A120GAT2A","Volume Production","LCSC","C2169482",0.0422,0.0844
+6,"GRM188R61E106MA73D","25V 10UF X5R ±20% 0603 MLCC","C15, C17",2,"Murata","GRM188R61E106MA73D","End of Life","LCSC","C91606",0.0371,0.0742
+7,"336319-12-0050","Cable Assembly Coaxial U.FL (UMCC), AMC to SMA 1.13mm OD Coaxial Cable 1.969"" (50.00mm)","CABLE1",1,"Amphenol RF","336319-12-0050","Volume Production","Digikey","336319-12-0050",22.31,22.31
+8,"MBR120","20V 600mV@1A 1A SOD-123 Schottky Barrier Diodes (SBD) ROHS","D2, D5",2,"ON Semiconductor","MBR120LSFT3G","Volume Production","LCSC","C896755",0.2068,0.4136
+9,"YFF31HC2A105M","1ÂµF Feed Through Capacitor 100V 6A 5mOhm 1206 (3216 Metric), 4 PC Pad","FL1",1,"TDK","YFF31HC2A105MT000N","Volume Production","LCSC","C113216",0.3651,0.3651
+10,"CP2104-F03-GMR","CP2104 - USB to UART Bridge    VDD Output: 3.45V","IC1",1,"Silicon Labs","CP2104-F03-GMR","Volume Production","LCSC","C47742",5.0907,5.0907
+11,"124019772112A","USB2.0, TOP MOUNT, R/A, 16 PIN, DUAL","J1",1,"Amphenol","124019772112A","Unknown","Digikey","664-124019772112ACT-ND",2.64,2.64
+12,"5988110107F","Red 635nm LED Indication - Discrete 2.2V 0805 _2012 Metric_","LED1",1,"Everlight Elec","17-21SURC/S530-A2/TR8","Volume Production","LCSC","C113551",0.0438,0.0438
+13,"5988130107F","Orange 605nm LED Indication - Discrete 2V 0805 (2012 Metric)","LED2",1,"Everlight Elec","17-21UYOC/S530-A2/TR8","Volume Production","LCSC","C131202",0.0397,0.0397
+14,"5988170107F","Green 566nm LED Indication - Discrete 2V 0805 (2012 Metric)","LED3",1,"Everlight Elec","17-21/GHC-YR1S2/3T","Volume Production","LCSC","C73546",0.0645,0.0645
+15,"800AC1BLKCAP","Round Pushbutton Switch Cap Black Snap Fit","M1, M2",2,"E-Switch","800AC1BLKCAP","Volume Production","Digikey","800AC1BLKCAP-ND",0.23,0.46
+16,"9774035243R","RND STANDOFF M2X0.4 STEEL 3.5MM","M3, M4, M5, M6",4,"Wurth Electronics","9774035243R","Volume Production","Digikey","732-7088-1-ND",0.98,3.92
+17,"DMG3415U","P-Channel Mosfet   LEGEND   VDS: Voltage Drain-Source ID: Drain Current RDS(ON): Drain-Source On-State Resistance VGS(TH): Gate-Source Threshold Voltage CISS: Drain-Source Input Capacitance    SOT-23   Name	VDS	ID	RDS(ON)	VGS(TH)	CISS	Order Number	   IRLML5103	30V	760mA	600 mOhm	--	75pF @ 25V	Digikey: IRLML5103PBFCT-ND	   IRLML6401	12V	4.3A	50 mOhm	950mV @ 250µA	830pF @ 10V	Digikey: IRLML6401PBFTR-ND	   NTR0202PL	20V	400mA	800 mOhm	2.3V @ 250uA	70pF @ 5V	Digikey: NTR0202PLT1GOSTR-ND	   NTR4101PT1G	20V	1.8A	85 mOhm	1.2V @ 250uA	675pF @ 10V	Digikey: NTR4101PT1GOSCT-ND	   DMP2004K	20V	600mA	900 mOhm	1V @ 250uA	175pF @ 16V	Digikey: DMP2004KDICT-ND	   PMV65XP	20V	3.9A	76 mOhm	950mV @ 1mA	725pF @ 20V	Digikey: 568-2358-2-ND	   							   							TO-252   Name	VDS	ID	RDS(ON)	VGS(TH)	CISS	Order Number	   AOD417	30V	25A	34 mOhm	3V @ 250µA	920pF @ 15V	Digikey: 785-1106-2-ND	PowerPak   Name	VDS	ID	RDS(ON)	VGS(TH)	CISS	Order Number	   AON7401	30V	12A	14 mOhm	3V @ 250µA	2600pF @ 15V	Digikey: 785-1302-1-ND","Q1",1,"Diodes","DMG3415U-7","Volume Production","LCSC","C709946",0.14,0.14
+18,"BSS84","MOSFET P-CH 60V 0.17A 3-Pin SOT-23 T/R","Q2",1,"Infineon","BSS84P","Volume Production","LCSC","C152212",0.2135,0.2135
+19,"2N7002,215","Power MOSFET, N Channel, 60 V, 300 mA, 2.8 ohm, SOT-23, Surface Mount","Q3",1,"Nexperia","2N7002,215","Unknown","LCSC","C65189",0.0872,0.0872
+20,"MMBT2222ALT1G","Integrated Circuit","Q4, Q5",2,"ON Semiconductor","MMBT2222ALT1G","Volume Production","LCSC","C82460",0.0466,0.0932
+21,"1K","RES 1.00K OHM 1/10W 1% 0603 SMD","R1, R12, R17",3,"Yageo","RC0603FR-071KL","Volume Production","LCSC","C22548",0.0013,0.0039
+22,"100K","Res General Purpose Thick Film 0603 100k Ohm 1% 1/10W ±100ppm/°C Molded","R2, R3, R7, R8",4,"Yageo","RC0603FR-07100KL","Volume Production","LCSC","C14675",0.0012,0.0048
+23,"10k 0603","RES 10.0K OHM 1/10W 1% 0603 SMD Ro HS","R4, R9, R11, R16, R18, R19, R20, R21",8,"Yageo","RC0603FR-0710KL","Volume Production","LCSC","C98220",0.0011,0.0088
+24,"330K","Res Thick Film 0603 330K Ohm 1% 0.1W(1/10W) ±100ppm/C Pad SMD T/R","R5",1,"Yageo","RC0603FR-07330KL","Volume Production","LCSC","C114618",0.0015,0.0015
+25,"4.7K 0603","Res Thick Film 0603 4.7K Ohm 1% 0.1W(1/10W) ±100ppm/C Pad SMD T/R","R6, R13, R14",3,"Yageo","RC0603FR-074K7L","Volume Production","LCSC","C99782",0.0012,0.0036
+26,"1.5K","Res General Purpose Thick Film 0603 1.5K Ohm 1% 1/10W ±100ppm/°C Molded SMD Paper T/R","R10",1,"Yageo","RC0603FR-071K5L","Volume Production","LCSC","C114668",0.0015,0.0015
+27,"10M","Res Thick Film 0603 10M Ohm 1% 1/10W ±200ppm/°C Molded SMD SMD Paper T/R","R15",1,"Vishay","CRCW060310M0FKEA","Volume Production","LCSC","C844730",0.0105,0.0105
+28,"200AWMSP1T1A1M7QE","SWITCH TOGGLE SPDT 3A 120V","S1",1,"E-Switch","200AWMSP1T1A1M7QE","Volume Production","Digikey","EG5772-ND",5.07,5.07
+29,"800AWSP9M7QE","Pushbutton Switch SPST-NO Standard Through Hole, Right Angle, Vertical","S2, S3, S4",3,"E-Switch","800AWSP9M7QE","Volume Production","Digikey","EG4363-ND",3.98,11.94
+30," B2B-PH-K-S(LF)(SN)","Connector Header, PH Series, 2 Position, 2.00mm, Through Hole, Press-Fit, Solder, Natural","T1",1,"JST","B2B-PH-K-S(LF)(SN)","Volume Production","LCSC","C131337",0.0396,0.0396
+31,"NCV8187AMT330TAG","1.2A LDO Regulator, Low Dropout Voltage, Low Noise with Power Good Output 3.3V, Active discharge","U1",1,"ON Semiconductor","NCV8187AMT330TAG","Unknown","LCSC","C893190",0.9991,0.9991
+32,"MM60-EZH039-B5-R850","CONN MINI EXPRESS CARD LATCH SMD","U2",1,"JAE Electronics","MM60-EZH039-B5-R850","Not Recommended for New Design","Digikey","670-2276-1-ND",1.07,1.07
+33,"SWARM_M138_mPCIe_2.005""_VHF","SWARM M138 MODEM mPCIe 2.005"" (50.925mm) x 1.18"" (30mm)  Two part connector","U3",1,"SWARM","M138","Manual Solution","SWARM","138",89,89
+34,"MCP73831T-2ACI/OT","IC BATT CNTL LI-ION 1CEL SOT23-5","U4",1,"Microchip","MCP73831T-2ACI/OT","Volume Production","LCSC","C424093",1.4318,1.4318
+35,"ESP32-C3-MINI-1-N4","Bluetooth, WiFi 802.11b/g/n, Bluetooth v5.0 Transceiver Module 2.412GHz ~ 2.484GHz PCB Trace Surface Mount","U5",1,"Espressif Systems","ESP32-C3-MINI-1-N4","Unknown","LCSC","C2838502",3.8663,3.8663
+36,"SN74LVC1G04DBVR","Inverter IC 1 Channel - SOT-23-5","U6",1,"Texas Instruments","SN74LVC1G04DBVR","Volume Production","LCSC","C7827",0.0885,0.0885
+37,"ADXL345BCCZ-RL","3-Axis, ±2 g/±4 g/±8 g/±16 g Digital Accelerometer","U7",1,"Analog Devices","ADXL345BCCZ-RL","Volume Production","LCSC","C9667",2.9899,2.9899
+38,"0.96"" i2c Olded Display","Header, 4-Pin","U8",1,"GENERIC","0.96"" OLED DISPLAY","Manual Solution","Sm.P.","OLED DISPLAY (0.96 IN, 128X64, IIC)",4.99,4.99
+39,"MM60-52B1-B1-R850","52 Position Female Connector PCI Express Mini Card Gold 0.031"" (0.80mm) - FOR MODEM","U9",1,"JAE Electronics","MM60-52B1-B1-R850","Not Recommended for New Design","Digikey","670-2274-1-ND",2.28,2.28
+40,"ABS07-32.768KHZ-1-T","32.768kHz ±10ppm Crystal 12.5pF 70 kOhms 2-SMD, No Lead","Y1",1,"Abracon","ABS07-32.768KHZ-1-T","Volume Production","LCSC","C145140",0.9341,0.9341
+,,,,,,,,,,,$186.88
