@@ -1,0 +1,49 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 11:53:47 PM On 2/18/2022
+
+Output: ODB++ Files
+Type  : ODB
+From  : Variant [[No Variations]] of PCB Document [TinyShuffle v.0.PcbDoc]
+   Generated File[matrix]
+   Generated File[profile]
+   Generated File[stephdr]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[tools]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[features]
+   Generated File[components]
+   Generated File[features]
+   Generated File[components]
+   Generated File[data]
+   Generated File[netlist]
+   Generated File[TinyShuffle v.0.RUL]
+   Generated File[TinyShuffle v.0.zip]
+
+
+Files Generated   : 36
+Documents Printed : 0
+
+Finished Output Generation At 11:53:50 PM On 2/18/2022

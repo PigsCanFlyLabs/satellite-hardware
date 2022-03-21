@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of PCB Document [TinyShuffle v.0.PcbDoc]
+   Generated File[Pick Place for TinyShuffle v.0.txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 9:00:36 PM On 2/9/2022
